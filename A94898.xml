@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and certaine relation of sundry great machinations and plots of divers Iesuites, priests, and other papists in severall parts of this kingdome against the proceedings of the Honourable the High Court of Parliament. And for the bringing of superstition and popery into this kingdome. Together with the coppy of a bull sent by the pope to Father William Stillington, provinciall of the English Jesuites, promising in it plenary indulgence to all those that should assist the papists cause; that is, full remission of their fines. Published by one that hath knowne all their plots, and by him discovered for the benefit of this common-wealth.</title>
+            <author>One that hath knowne all their plots, and by him discovered for the benefit of this common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94898</idno>
+            <idno type="STC">Wing T2421</idno>
+            <idno type="STC">Thomason E128_26</idno>
+            <idno type="STC">ESTC R845</idno>
+            <idno type="EEBO-CITATION">99873315</idno>
+            <idno type="PROQUEST">99873315</idno>
+            <idno type="VID">156251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156251)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E128[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and certaine relation of sundry great machinations and plots of divers Iesuites, priests, and other papists in severall parts of this kingdome against the proceedings of the Honourable the High Court of Parliament. And for the bringing of superstition and popery into this kingdome. Together with the coppy of a bull sent by the pope to Father William Stillington, provinciall of the English Jesuites, promising in it plenary indulgence to all those that should assist the papists cause; that is, full remission of their fines. Published by one that hath knowne all their plots, and by him discovered for the benefit of this common-wealth.</title>
+                  <author>One that hath knowne all their plots, and by him discovered for the benefit of this common-wealth.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Nouemb: 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Urban, --  Pope, 1568-1644 --  Early works to 1800.</term>
+               <term>Stillington, William, 1597-1654 --  Early works to 1800.</term>
+               <term>Catholic Church. --  Pope (1623-1644 : Urban VIII) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156251:1" rendition="simple:additions"/>
+            <p>A true and certaine Relation of ſundry great Machinations and Plots of divers Ieſuites, Prieſts, and other Papiſts in ſeve<g ref="char:EOLhyphen"/>rall parts of this Kingdome againſt the Pro<g ref="char:EOLhyphen"/>ceedings of the Honourable the High Court of PARLIAMENT.</p>
+            <p>And for the bringing in ſuperſtition and Popery into this KINGDOME.</p>
+            <p>Together with the Coppy of a Bull ſent by the Pope to Father <hi>William Stillington,</hi> Provinciall of the Engliſh Jeſuites, promiſing in it plenary In<g ref="char:EOLhyphen"/>dulgence to all thoſe that ſhould aſſiſt the Papiſts Cauſe; that is, full remiſ<g ref="char:EOLhyphen"/>ſion of their ſinnes.</p>
+            <p>Publiſhed by one that hath knowne all their Plots, and by him diſcovered for the benefit of this COMMON-WEALTH.</p>
+            <p>LONDON, Printed for <hi>Fr. Wright.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156251:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:156251:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>N Lancaſhire a Countrey very abur<g ref="char:EOLhyphen"/>dant in Popiſh Recuſants: They have by the inſtigations of divers Popiſh Prieſts and Jeſuites, being the onely inſtigators and ſtirrers up of the ſun<g ref="char:EOLhyphen"/>ple peoples diſaffection to the Parli<g ref="char:EOLhyphen"/>aments Proceedings, there being in the Army of <hi>Iames</hi> Earle of Darby, at leaſt two hundred noted Recuſants, beſides a great number of Church Papiſts; they having contributed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the charge of his Army privately at leaſt ten thouſand pounds, beſides divers of them maintaine them<g ref="char:EOLhyphen"/>ſelves at their owne coſt, and their men. Such are the mali<g ref="char:EOLhyphen"/>cious intentions of thoſe Popiſh Malignants, as appeared lately in their wicked plot againſt the good, Towne of Man<g ref="char:EOLhyphen"/>cheſter; which in loyalty to the Parliament was invaded by the Earle of Darby, who being repulſ'd from thence with much diſgrace and loſſe, divers Papiſts thereabouts plotted how they might betray it by treachery. Comming therefore <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Mancheſter in the habit of Countrey market folke, they were received into the houſe of one <hi>Iohn Daviſon</hi> a ſuſpe<g ref="char:EOLhyphen"/>cted Recuſant, being indeed a Church Papiſt, where they laid this wicked deſigne; namely, that on the next night they ſhould ſet fire on divers out-houſes in the Towne, which
+<pb n="4" facs="tcp:156251:3"/>
+while the Inhabitants were buſie in quenching, ſome of my Lord of Darbyes Troops that were lodg'd privately in the adjoyning Villages ſhould upon the ſignall of the fire ruſh into the Towne, ſurpriſe it, fire it, and kill up the Inhabitants. Man purpoſeth and God diſpoſeth, who bringeth to nought the counſell of the ungodly. Theſe Papiſt Cavaliers, whereof two of them were Prieſts: One Father <hi>Goddinton</hi> a Jeſuite, and Father <hi>Kenſington</hi> a Secular, drinking at the Taverne with the reſt of the Conſpirators, being in number eight, glo<g ref="char:EOLhyphen"/>rying in their intended buſineſſe, diſcourſ'd the likelineſſe of the ſucceſſe one to another in Italian, thinking no man had underſtood them: But the hoſt of the houſe, a good ſenſible fellow, that had ſometime been a ſouldier under the States of Venice in Italy, though he ſpake not Italian perfectly, he un<g ref="char:EOLhyphen"/>derſtood enough to detect their villany, and ſo ſlipping out of the roome he haſted to the Magiſtrates of the Towne and reveal'd the whole Conſpiracy, aggravating the danger the Towne was in if it were not ſuddenly prevented. They ta<g ref="char:EOLhyphen"/>king into conſideration their owne perill with a ſtrong guard preſently beſet the houſe, the Bayliffe entring into their roome, and charging them in the Kings name to yeeld them<g ref="char:EOLhyphen"/>ſelves; one of thoſe deſperate Prieſts pull'd out of his pocket a little dag, diſcharg'd it againſt the good Bayliffes breaſt; but he by falling flat on his face to the ground avoided the blow, and the other Company entring. they ſeeing reſiſtance in vaine yeelded themſelves, and upon examination confeſſed their helliſh purpoſe. Whereupon they were committed to ſafe cuſtody, and the Towneſ-men reſolved, if it were poſſi<g ref="char:EOLhyphen"/>ble, to intrap thoſe Troops of the Earle of Darbyes that lay in ambuſh for their ruines; knowing, that to deceive the de<g ref="char:EOLhyphen"/>ceiver is no deceit. So placing a ſtrong Corps du guard in their Market place, and laying men as cloſely as they could poſſible at all the entrances into their Towne, about eleven a clocke, which was the appointed houre, they gave fire to ſome huge heapes of ſtraw and furs, which they had plac'd on the outſide of the Towne on ſet purpoſe; The Cavaliers
+<pb n="5" facs="tcp:156251:3"/>
+acknowledging the Signall came in upon the ſpur towards the Towne, diſperſing themſelves to the ſeverall Lanes and Entrances thereof in ſundry ſmall Bodies, making aſſured ac<g ref="char:EOLhyphen"/>count of firing, and pillaging that wealthy and populous Towne. But no ſooner were they entred within each ſtreet, but our men ſaluted them with their Muskets. The very wo<g ref="char:EOLhyphen"/>men out of the Windowes and Caſements, powring ſcal<g ref="char:EOLhyphen"/>ding water on their heads, and the Corps du Guard from the Market-place, taking downe each Lane of the Towne, they put thoſe miſcreants into a terrible affright, killing at leaſt ſixty ſix, the reſt of them befriended by the darkneſſe of the night, turn'd their Horſes about and fled curſing Mancheſter as a place fatall to them and their Companions.</p>
+            <p>In the Army of the Lord <hi>Herbert</hi> of <hi>Ragland,</hi> ſonne to the Earle of <hi>Worceſter,</hi> at leaſt a third part are notorious Papiſts, all thoſe Recuſants of <hi>Wales</hi> being entertained into his ſocity. And it is credibly reported the occaſion of that Lords deſertion from the honourable Court of Parliament to the Kings malignants, was meerely at the inſtigation of a Prieſt, one Father <hi>Stillington</hi> his Confeſſor, who by threat<g ref="char:EOLhyphen"/>ning the poore noble man with damnation, if hee did not aſ<g ref="char:EOLhyphen"/>ſiſt the Catholique Cauſe, whoſe Champions, as hee termes them, the Army of the Cavaliors was; and promiſing a free remiſſion of all his ſinnes if hee undertooke the quarrell, drew him unwillingly into it. The ſaid <hi>Stillington</hi> as it is affirmed for the advancing his wicked deſignes againſt the peace of this Kingdome, and hoping to bring in Popery hi<g ref="char:EOLhyphen"/>ther, to incourage all ſuperſtitious Recuſants to the liberall contribution of money toward the charge of the war, and that they ſhould hazard their lives with the greater deſperat<g ref="char:EOLhyphen"/>neſſe in the Cauſe, procur'd a Bull from his holy Father the Pope, wherein he promiſeth plenary indulgence to all that ſhall aſſiſt the Catholique cauſe: the Copy of which in Eng<g ref="char:EOLhyphen"/>liſh (though the originall be Latine) that all may underſtand I have here truly ſet downe.</p>
+            <p>
+               <hi>Urban</hi> the eighth, a ſervant of the ſervants of God, by
+<pb n="6" facs="tcp:156251:4"/>
+whoſe ſpeciall providence We are conſtituted Chriſts Vicar, Generall here on earth, and as his ſucceſſor. Keeper of the keys of Saint <hi>Peter:</hi> To all our dearely beloved ſonnes, the true Roman Catholiques in <hi>England,</hi> Grace and Apoſtolicall benediction Whereas it hath been notified unto Our holi<g ref="char:EOLhyphen"/>neſſe by our deare ſon and faithfull ſervant, <hi>William Stilling<g ref="char:EOLhyphen"/>ton,</hi> of the ſociety of Jeſus in <hi>England,</hi> Vice-Provinciall, that there are ſome hopes that the Catholique Cauſe may againe reſpire in <hi>England,</hi> after ſo many perſecutions, ſince <hi>ſanguis martyrum eſt ſemen Eccleſiae,</hi> there being forces now on foot in that Iſland, the <hi>quondam</hi> dowry of our bleſſed Virgin <hi>Mary,</hi> to eradicate their pretended Goſpell, which on the infallible faith of our holy Chaire, is meere hereſie. We doe hereby re<g ref="char:EOLhyphen"/>quire, and fatherly adviſe you and every of you, and as Chriſts Vicar and Feeder of his flocke (whoſe voyce all his ſheepe will obey) We by this our Bull, doe charge and command you in generall, that you be aſſiſtant both with bodies and goods to the ſaid holy war, to which whoſoever contributes money, or goes in perſon, ſhall be capable of, and receive theſe indulgences following:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="list_of_indulgences">
+                        <list>
+                           <item>
+                              <hi>Imprimis,</hi> ſaying every a day a <hi>Pater noster</hi> and an <hi>Ave Maria,</hi> he ſhall certainly have the power to releaſe any ſoule whom he intends, out of the pains of Purgatory.</item>
+                           <item>
+                              <hi>Item,</hi> he ſHall receive full power and authority to eat fleſh in Lent, Advent, and other prohibited times.</item>
+                           <item>
+                              <hi>Item,</hi> he ſhall without abſolution from his Ghoſtly father, or any other Prieſt receive remiſſion for all his veniall ſinnes.</item>
+                           <item>
+                              <hi>Item,</hi> he ſhall for ever be freed from the danger of Purga<g ref="char:EOLhyphen"/>tory, and as often as he pleaſeth releaſe a ſoule from thence.</item>
+                           <item>
+                              <hi>Item,</hi> it ſhall be in his power to give full remiſſion from any veniall ſinnes, to any perſons as ample as if they receiv'd it from a Prieſt after confeſſion.</item>
+                           <item>
+                              <hi>Item,</hi> that whoſoever ſhall dye in the Catholique Cauſe, though they be hang'd, drawne and quartered, ſhall be ſure to be put into our generall Calender of Martyrs, and be let in<g ref="char:EOLhyphen"/>to heaven by the keyes of Saint <hi>Peter.</hi>
+                           </item>
+                        </list>
+                        <p>All theſe Indulgences
+<pb n="7" facs="tcp:156251:4"/>
+we doe freely confirme the diſpenſing which we conferro on the ſaid Father, <hi>William Stillington,</hi> and his ſubſtitutes;</p>
+                        <closer>
+                           <dateline>Given under our hand <date>this tenth of <hi>October, Stilo Novo,</hi> at the <hi>Vatican,</hi> and ſigned <hi>ſub annulo piſcatoris.</hi>
+                              </date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>By the vertue of this Bull, though it be as ridiculous as uneffectuall, <hi>Stilling<g ref="char:EOLhyphen"/>ton</hi> roaring it out among the ignorant ſuperſtitious Papiſts in thoſe parts, hath procur'd no ſmall aid to the Lord <hi>Herbert;</hi> both of men and money, who, though he had the impudence in a Letter to my Lord of <hi>Stamford,</hi> to tax the high Court of Parliament for entertaining Papiſts into their Army, which they never did or intended, yet himſelfe hath beene glad to make up the beſt part of his malignant forces, of ſuch ſuperſtitious miſled ignorant people by the means aforeſaid, ſeduced into his quarrell: ſo like wiſe in the Army raiſed by the Earle of <hi>Newcaſtle</hi> in <hi>Northumberland,</hi> and the Biſhop<g ref="char:EOLhyphen"/>rick of <hi>Durham,</hi> the moſt conſiderable number of them both for wealth &amp; bravery are convicted Recuſants, whoſe purſes have been largely ſtretch'd, and revenues expoſed to ſale and morgage for the raiſing and maintaining the ſaid Earles for<g ref="char:EOLhyphen"/>ces. Ammuniton and Armes in abundance, being upon all occaſions tranſported from <hi>Dunkirke</hi> to <hi>Newcaſtle,</hi> being purchaſed there by the factors and moneys of the Jeſuits of <hi>Liege, Gaunt, Watten</hi> and <hi>Saint Omers,</hi> that have uſed, and doe dayly endeavour all that is poſſible, to ſoment and in<g ref="char:EOLhyphen"/>creaſe confuſion amongſt us; nay, this very City of <hi>London,</hi> as carfull as it is look'd to, and as excellently governed as can be imagined, is not free from theſe Serpents that ſting un<g ref="char:EOLhyphen"/>ſeen, they daily machinating and contriving new miſchiefes againſt the kingdome and the ſacred Parliament, whoſe vi<g ref="char:EOLhyphen"/>gilant Miniſters have detected divers of thoſe incendiaries, and brought them to their ſo well merited deſtiny, the Gal<g ref="char:EOLhyphen"/>lowes, make us thankfull for it, and in time, no doubt, the reſt of that damn'd Idolatrous crue of Prieſts and Jeſuits, will come to the ſame end; for their inventions are all wic<g ref="char:EOLhyphen"/>kedneſſe, and how they may deſtroy the peace of Iſrael, which God grant may flouriſh like an Olive tree, and wee
+<pb n="8" facs="tcp:156251:5"/>
+ſit ſecure under it's branches, of which there is no doubt, having ſo ſtrong a tower of defence as the Almighty is to us, in the high Court of Parliament, the repreſentative body of the kingdome which hath ſo well begun the rooting out ſu<g ref="char:EOLhyphen"/>perſtition and Popery, from amongſt which, heaven in it's good time ſend they may accompliſh to the glory of God, and proſperity of us his people, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
